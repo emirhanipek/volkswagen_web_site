@@ -1,8 +1,20 @@
-# Emirhan İpek
+# Sıfır Araç Bayi Web Sitesi
 
+![Adsız tasarım (4)](https://github.com/user-attachments/assets/48ac25a6-8785-493e-ad04-480839ed6930)
 
-<img width="962" alt="Ekran Resmi 2022-01-01 00 56 37" src="https://user-images.githubusercontent.com/103415904/210156354-11b9a050-3148-4ad0-875b-9cab2d452db6.png">
+Bu proje, Bootstrap, HTML, CSS ve JavaScript kullanılarak yapılmış bir sıfır araç bayi web sitesidir. Site, kullanıcıların araçları incelemesine, fiyat ve özellikleri karşılaştırmasına ve bayiye ulaşmasına olanak tanır.
 
+## Özellikler
 
+- **Araç Kataloğu**: Tüm sıfır araçlar için detaylı bir katalog.
+- **Fiyat Karşılaştırma**: Araçlar arasında fiyat ve özellik karşılaştırma imkanı.
+- **Duyarlı Tasarım**: Bootstrap kullanılarak tüm cihazlar için optimize edilmiş tasarım.
+- **İletişim Formu**: Kullanıcıların bayiye kolayca ulaşabilmesi için form.
+- **JavaScript Dinamikliği**: Etkileşimli elementler ve kullanıcı deneyimini artıran dinamik içerikler.
 
-<img width="718" alt="Ekran Resmi 2022-01-01 00 56 19" src="https://user-images.githubusercontent.com/103415904/210156368-118037a0-11f3-47a5-9731-de6c0534c128.png">
+## Kullanılan Teknolojiler
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- JavaScript
